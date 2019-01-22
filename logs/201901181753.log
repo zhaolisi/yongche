@@ -1,0 +1,72 @@
+2019-01-18 17:53:15,633-BrowserEngine-INFO-You had select Chrome browser.
+2019-01-18 17:53:15,633-BrowserEngine-INFO-The test server url is: https://sso.yongche.org/
+2019-01-18 17:53:18,187-BrowserEngine-INFO-Starting Chrome browser.
+2019-01-18 17:53:18,825-BrowserEngine-INFO-Open url: https://sso.yongche.org/
+2019-01-18 17:53:18,827-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-01-18 17:53:18,851-BasePage-INFO-Had find the element successful by id via value: J_login 
+2019-01-18 17:53:19,023-BasePage-INFO-Had type ' zhaolisi ' in inputBox
+2019-01-18 17:53:20,027-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:20,063-BasePage-INFO-Had find the element successful by id via value: J_pwd 
+2019-01-18 17:53:20,170-BasePage-INFO-Had type ' Zls@8891 ' in inputBox
+2019-01-18 17:53:21,175-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:21,238-BasePage-INFO-Had find the element successful by id via value: id_submit 
+2019-01-18 17:53:22,011-BasePage-INFO-The element was clicked.
+2019-01-18 17:53:22,023-BasePage-INFO-Current page url is https://sso.yongche.org/my/securecenter
+2019-01-18 17:53:22,064-BasePage-INFO-Had find the element ' 退出 ' successful by xpath via value: //*/div[@class='col-lg-4 col-md-4 col-xs-12 col-sm-12 text-right links pull-right']/a[2] 
+2019-01-18 17:53:22,314-BasePage-INFO-The element was clicked.
+2019-01-18 17:53:23,316-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:23,326-BasePage-INFO-Had find the element successful by id via value: J_login 
+2019-01-18 17:53:23,352-BasePage-INFO-Clear text in input box before typing.
+2019-01-18 17:53:24,358-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:24,367-BasePage-INFO-Had find the element successful by id via value: J_pwd 
+2019-01-18 17:53:24,390-BasePage-INFO-Clear text in input box before typing.
+2019-01-18 17:53:25,391-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:25,401-BasePage-INFO-Had find the element successful by id via value: J_login 
+2019-01-18 17:53:25,454-BasePage-INFO-Had type ' luying ' in inputBox
+2019-01-18 17:53:26,457-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:26,468-BasePage-INFO-Had find the element successful by id via value: J_pwd 
+2019-01-18 17:53:26,559-BasePage-INFO-Had type ' Zls@8891 ' in inputBox
+2019-01-18 17:53:27,561-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:27,571-BasePage-INFO-Had find the element successful by id via value: id_submit 
+2019-01-18 17:53:27,733-BasePage-INFO-The element was clicked.
+2019-01-18 17:53:27,745-BasePage-INFO-Current page url is https://sso.yongche.org/auth/login
+2019-01-18 17:53:27,761-BasePage-INFO-Had find the element successful by id via value: J_login 
+2019-01-18 17:53:27,797-BasePage-INFO-Clear text in input box before typing.
+2019-01-18 17:53:28,800-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:28,809-BasePage-INFO-Had find the element successful by id via value: J_pwd 
+2019-01-18 17:53:28,832-BasePage-INFO-Clear text in input box before typing.
+2019-01-18 17:53:29,836-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:29,851-BasePage-INFO-Had find the element successful by id via value: J_login 
+2019-01-18 17:53:29,911-BasePage-INFO-Had type ' zhaolisi ' in inputBox
+2019-01-18 17:53:30,911-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:30,922-BasePage-INFO-Had find the element successful by id via value: J_pwd 
+2019-01-18 17:53:30,993-BasePage-INFO-Had type ' Zls@1988 ' in inputBox
+2019-01-18 17:53:31,998-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:32,012-BasePage-INFO-Had find the element successful by id via value: id_submit 
+2019-01-18 17:53:32,250-BasePage-INFO-The element was clicked.
+2019-01-18 17:53:32,265-BasePage-INFO-Current page url is https://sso.yongche.org/auth/login
+2019-01-18 17:53:32,279-BasePage-INFO-Had find the element successful by id via value: J_login 
+2019-01-18 17:53:32,302-BasePage-INFO-Clear text in input box before typing.
+2019-01-18 17:53:33,304-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:33,314-BasePage-INFO-Had find the element successful by id via value: J_pwd 
+2019-01-18 17:53:33,337-BasePage-INFO-Clear text in input box before typing.
+2019-01-18 17:53:34,339-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:34,340-BrowserEngine-INFO-Now, Close and quit the browser.
+2019-01-18 17:53:34,416-BrowserEngine-INFO-You had select Chrome browser.
+2019-01-18 17:53:34,416-BrowserEngine-INFO-The test server url is: https://sso.yongche.org/
+2019-01-18 17:53:36,883-BrowserEngine-INFO-Starting Chrome browser.
+2019-01-18 17:53:38,668-BrowserEngine-INFO-Open url: https://sso.yongche.org/
+2019-01-18 17:53:38,669-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-01-18 17:53:38,690-BasePage-INFO-Had find the element successful by id via value: J_login 
+2019-01-18 17:53:38,820-BasePage-INFO-Had type ' zhaolisi ' in inputBox
+2019-01-18 17:53:38,836-BasePage-INFO-Had find the element successful by id via value: J_pwd 
+2019-01-18 17:53:38,980-BasePage-INFO-Had type ' Zls@8891 ' in inputBox
+2019-01-18 17:53:38,993-BasePage-INFO-Had find the element successful by id via value: id_submit 
+2019-01-18 17:53:40,534-BasePage-INFO-The element was clicked.
+2019-01-18 17:53:41,540-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:41,849-BasePage-INFO-The element was clicked.
+2019-01-18 17:53:42,851-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:42,881-BasePage-INFO-Had find the element ' ERP ' successful by xpath via value: //*[contains(text(),'ERP')] 
+2019-01-18 17:53:43,138-BasePage-INFO-The element was clicked.
+2019-01-18 17:53:44,141-BasePage-INFO-Sleep for 1 seconds
+2019-01-18 17:53:44,150-BrowserEngine-INFO-Now, Close and quit the browser.
